@@ -1,4 +1,4 @@
--- Write your MySQL query statement below
+-- Big Countries
 SELECT name, population, area 
 FROM World 
 WHERE area >= 3000000 OR
